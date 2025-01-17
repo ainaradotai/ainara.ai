@@ -1,5 +1,17 @@
-# ainara.ai
-Ainara.ai – Your AI-powered virtual friend. 
+# Ainara.ai
 
-This project has been in active development since mid-2024, with the official website registered in September 2024.
-https://ainara.ai
+🚀 **Ainara.ai – Your AI-powered virtual friend.**  
+
+This project has been in active development since **mid-2024**, with the official website registered in **September 2024**.  
+
+🌍 **Official website:** [ainara.ai](https://ainara.ai)
+
+---
+
+## 📅 Development Timeline
+- **Mid-2024** – Project started & active development began  
+- **September 2024** – Official domain **[ainara.ai](https://ainara.ai)** registered  
+
+## 📞 Contact & Social Media
+🌐 **Website:** [https://ainara.ai](https://ainara.ai)  
+✉️ **Email:** [mail.ainara.ai@gmail.com](mailto:mail.ainara.ai@gmail.com)  
